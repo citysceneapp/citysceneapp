@@ -5,14 +5,14 @@ class App extends Component {
         return (
             <div className='App'>
                 <header className='App-header'>
-                    <p>Something brewing</p>
+                    <p>Something brewing Something</p>
                     <a
                         className='App-link'
                         href='https://reactjs.org'
                         target='_blank'
                         rel='noopener noreferrer'
                     >
-                        Learn React
+                        Learn About it
                     </a>
                 </header>
             </div>
