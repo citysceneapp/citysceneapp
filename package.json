@@ -8,7 +8,7 @@
         "test": "react-scripts test",
         "eject": "react-scripts eject",
         "style:standard": "standard src/** --fix",
-        "commit": "git add . && git commit -m \"Additional dependencies and contact info\" && git publish origin"
+        "commit": "git add . && git commit -m \"Additional dependencies and contact info\" && git push origin master"
     },
     "dependencies": {
         "@material-ui/core": "^3.6.2",
